@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pdfplumber
+pymysql
+# OCR (scanned PDF er jonno)
+pdf2image
+pytesseract
